@@ -1,3 +1,4 @@
+#https://github.com/mozo95/projecte02/blob/master/afegeix-nou-usuari-local.sh
 #display the username, password, and the host where the user was
 #created.
 
