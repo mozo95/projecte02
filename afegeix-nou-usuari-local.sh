@@ -41,6 +41,4 @@ then
     exit 1
 fi
 # Display the username, password, and the host where the user was created.
-echo $1
-echo $PASSWORD
-echo $(hostname)
+echo -e "\n El usuario $1, tiene la contraseña $PASSWORD y el host $(hostname)." 
